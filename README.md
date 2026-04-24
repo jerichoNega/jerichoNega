@@ -7,7 +7,7 @@
 *T-shaped professional building at the intersection of software engineering, AI automation, and digital media strategy.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jerichonega.github.io%2Fportfolio-00e5d4?style=flat-square&logo=github)](https://jerichonega.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beyaricko_Degu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/beyarickodegu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beyaricko_Degu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/beyaricko-degu-707272159)
 [![Build Up Addis](https://img.shields.io/badge/Studio-Build_Up_Addis-ff6b35?style=flat-square)](https://buildupaddis.com)
 
 </div>
@@ -68,6 +68,6 @@
 
 **I believe the competitive edge belongs to those who know *when* to let AI run and *when* to step in.**
 
-[📫 hello@beyarickodegu.com](mailto:hello@beyarickodegu.com) · [Portfolio](https://jerichonega.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/beyarickodegu)
+[📫 hello@beyarickodegu.com](mailto:hello@beyarickodegu.com) · [Portfolio](https://jerichonega.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/beyaricko-degu-707272159)
 
 </div>
